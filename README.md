@@ -5,4 +5,4 @@
 | Model Training | Thumbnail | Videos |
 |:-----|:------:|------:|
 | Early    |   <img src="docs/thumbnail_early.png" width="120"/> | <a href="https://wosstarot.github.io/demonattack_early.mp4" target="_blank">▶ Watch Video</a>  |
-| Late    |   <img src="docs/thumbnail_late.png" width="120"/> | <a href="https://wosstarot.github.io/CSCI166/demonattack_late.mp4" target="_blank">▶ Watch Video</a>  |
+| Late    |   <img src="docs/thumbnail_late.png" width="120"/> | [▶️ Watch the demo](demonattack_late.mp4)  |
