@@ -4,5 +4,5 @@
 
 | Model Training | Thumbnail | Videos |
 |:-----|:------:|------:|
-| Early    |       | <video src="demonattack_early.mp4" controls width="480"></video>     |
-| Late    |       | <video src="demonattack_late.mp4" controls width="480"></video>     |
+| Early    |   ![Demo](thumbnail_early.png)    | [Watch video](demonattack_early.mp4)  |
+| Late    |   ![Demo](thumbnail_late.png)    | [Watch video](demonattack_late.mp4)  |
